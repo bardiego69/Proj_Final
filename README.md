@@ -1,8 +1,24 @@
 # Proj_Final
-Tomada de Decisão - Melhor opção n° circuitos para painel de 10 cargas, utilizando AG, AHP-FUZZY e TOPSIS
-Considerando um cenário em que há 10 cargas submarinas (motores submarinas) com localização pré-definidas, qual seria a melhor posição de um painel de distribuição de circuitos? Qual o número ideal de circuitos por painel? Como avaliar da melhor forma esta decisão.
-Assim, neste trabalho seguiu-se os seguintes passos:
-Calculo do fluxo de potência para cada circuito considerando as seguintes alternativas:
+
+Utilização de Metodologia Multicritérios 
+1. Utilização do AHP/FUZZY - rank de critérios com Python
+
+Aplicação de 04 macro-critérios
+Aplicação de critérios com 01 nível de alternativas de 5,3,2 e 2
+2. Utilização do TOPSIS - rank de alternativas com Python
+
+Aplicação para de uma matriz de 12x12
+3. Tarefa
+
+Nome: Decisão de qual topologia de painel é a ideal para 10 cargas.
+
+Dados: [DATA_CABLE.xlsx]
+Dados: [dados.xlsx]
+Dados: [dist.xlsx]
+Dados: [conf.xlsx]
+
+
+[Escopo] Calculo do fluxo de potência para cada circuito considerando as seguintes alternativas:
 Alternativa 1  -> 1 painel com 10 alimentadores
 Alternativa 2  -> 2 paineis com 8 e 2 alimentadores
 Alternativa 3  -> 2 paineis com 7 e 3 alimentadores
@@ -26,4 +42,7 @@ Somatória dos custos de instalação dos cabos e custos de equipamentos adicion
 Calculo de confiabilidade de cada carga/ alternativa;
 Calculo de probalidade de perda das 10 cargas para cada alternativa;
 Utilização da metodologia AHP-FUZZY para rank de critérios;
-Utilização de metodologia TOPSIS para tomada de decisão.
+Utilização de metodologia TOPSIS para tomada de decisão
+
+Plataformas utilizadas
+Google [Google Colab]
