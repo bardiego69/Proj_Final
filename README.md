@@ -1,5 +1,3 @@
-# Proj_Final
-
 Utilização de Metodologia Multicritérios 
 1. Utilização do AHP/FUZZY - rank de critérios com Python
 
