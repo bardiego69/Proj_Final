@@ -1,19 +1,22 @@
-#Utilização de Metodologia Multicritérios
+# Utilização de Metodologia Multicritérios
 **1. Utilização do AHP/FUZZY - rank de critérios com Python**
 - Aplicação de 04 macro-critérios
 - Aplicação de critérios com 01 nível de alternativas de 5,3,2 e 2
+
 **2. Utilização do TOPSIS - rank de alternativas com Python**
 - Aplicação para de uma matriz de 12x12
+
 **3. Tarefa**
 - Nome: Decisão de qual topologia de painel é a ideal para 10 cargas.
 
-Dados: [DATA_CABLE.xlsx]
-Dados: [dados.xlsx]
-Dados: [dist.xlsx]
-Dados: [conf.xlsx]
+**4.Dados:** 
+- [DATA_CABLE.xlsx]
+- [dados.xlsx]
+- [dist.xlsx]
+- [conf.xlsx]
 
-
-[Escopo] Calculo do fluxo de potência para cada circuito considerando as seguintes alternativas:
+**5.[Escopo]**
+Calculo do fluxo de potência para cada circuito considerando as seguintes alternativas:
 - Alternativa 1  -> 1 painel com 10 alimentadores
 - Alternativa 2  -> 2 paineis com 8 e 2 alimentadores
 - Alternativa 3  -> 2 paineis com 7 e 3 alimentadores
@@ -26,6 +29,7 @@ Dados: [conf.xlsx]
 - Alternativa 10 -> 4 paineis com 2, 2, 2 e 4 alimentadores
 - Alternativa 11 -> 4 paineis com 2, 2, 3 e 3 alimentadores
 - Alternativa 12 -> 5 paineis com 2, 2, 2, 2 e 2 alimentadores
+
 **Otimização da localização considerando Algoritmos Genéticos (Solver - Excel), consdierando:**
 - menor custo de aquisição;
 - Corrente de cargas com 20% de margem de segurança;
