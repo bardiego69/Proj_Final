@@ -14,16 +14,13 @@ Em seguida, considerando a metodologia TOPSIS, é realizado o ranqueamento das a
 **1.2. Utilização do TOPSIS - rank de alternativas com Python**
 - Aplicação para de uma matriz de 12x12
 
-**2. Tarefa**
-- Nome: Decisão de qual topologia de painel é a ideal para 10 cargas.
-
-**3.Dados:** 
+**2.Dados:** 
 - [DATA_CABLE.xlsx] - Contem os parametros elétricos dos cabos
 - [dados.xlsx] - Contem o número de equipamentos envolvidos
 - [dist.xlsx] - Contem as localizações das cargas e paineis
 - [conf.xlsx] - Contem a confiabilidade de cada equipamento
 
-**4.[Escopo]**
+**3.[Escopo]**
 
 Calculo do fluxo de potência para cada circuito considerando as seguintes alternativas:
 - Alternativa 1  -> 1 painel com 10 alimentadores
