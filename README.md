@@ -1,4 +1,18 @@
 # Utilização de Metodologia Multicritérios
+
+#### Aluno: [Diego Alexandre Belmonte Barbosa](https://github.com/link_do_github)
+#### Orientador(/a/es/as): [Cristian Muños](https://github.com/link_do_github)
+
+---
+
+Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+
+
+---
+
+
+### Resumo
+
 **1. Objetivo**
 
 Utilizar metodologia multicritérios para a decisão de qual topologia de painel é a ideal para 10 cargas.
@@ -51,4 +65,12 @@ Criação da tabela com todas as alternativas;
 
 #  Plataformas utilizadas
 - Google [[Google Colab](https://colab.research.google.com/)]
+
+---
+
+Matrícula: 192.190.054
+
+Pontifícia Universidade Católica do Rio de Janeiro
+
+Curso de Pós Graduação *Business Intelligence Master*
 
